@@ -15,7 +15,7 @@ Pahamify memiliki desain yang simple dan minimalist dengan tampilan visual yang 
     <img src = "img/foto1.jpg">
 </p>
 
-<p align = "center">Gambar 1 Antarmuka Aplikasi Pahamify</p>
+*<p align = "center">Gambar 1 Antarmuka Aplikasi Pahamify</p>*
 
 ## **Fitur-fitur Utama Aplikasi Pahamify**
 Di aplikasi pahamify ini ada beberapa fitur utama yang dapat membantu kita dalam proses pembelajaran.
@@ -24,9 +24,9 @@ Di aplikasi pahamify ini ada beberapa fitur utama yang dapat membantu kita dalam
     <img src = "img/foto5.jpg">
 </p>
 
-<p align = "center">Gambar 2 Fitur Utama Aplikasi Pahamify</p>
+*<p align = "center">Gambar 2 Fitur Utama Aplikasi Pahamify</p>*
 
-**Pertama**, ada fitur Belajar, nah dibagian ini terbagi lagi menjadi tiga sub bagian kecil, yaitu :
+**Pertama**, ada **fitur Belajar**, nah dibagian ini terbagi lagi menjadi tiga sub bagian kecil, yaitu :
 
 1. **Belajar Pelajaran**
 
@@ -34,7 +34,7 @@ Di aplikasi pahamify ini ada beberapa fitur utama yang dapat membantu kita dalam
     <img src = "img/foto2.jpg">
     </p>
 
-    <p align = "center">Gambar 3 Bagian Belajar Pelajaran pada Fitur Belajar</p>
+    *<p align = "center">Gambar 3 Bagian Belajar Pelajaran pada Fitur Belajar</p>*
     
     Dibagian ini kita dapat mengakses mata pelajaran seperti Matematika, Biologi, Literasi Bahasa Inggris, dan masih banyak lagi. Materi-materi pembelajaran disajikan dalam bentuk video animasi yang menarik dan menyenangkan.
 
@@ -42,13 +42,13 @@ Di aplikasi pahamify ini ada beberapa fitur utama yang dapat membantu kita dalam
     <img src = "img/foto11.jpg">
     </p> 
 
-    <p align = "center">Gambar 4 Tampilan List Materi pada Salah Satu Mata Pelajaran</p>
+    *<p align = "center">Gambar 4 Tampilan List Materi pada Salah Satu Mata Pelajaran</p>*
 
     <p align = "center">
     <img src = "img/foto12.jpg">
     </p> 
 
-    <p align = "center">Gambar 5 Tampilan Halaman Belajar yang Memuat Video Pembelajaran</p>
+    *<p align = "center">Gambar 5 Tampilan Halaman Belajar yang Memuat Video Pembelajaran</p>*
     
     Kemudian setelah pembelajaran akan ada kuis untuk menguji pemahaman.
     
@@ -56,7 +56,7 @@ Di aplikasi pahamify ini ada beberapa fitur utama yang dapat membantu kita dalam
     <img src = "img/foto13.jpg">
     </p>    
 
-    <p align = "center">Gambar 6 Tampilan Halaman Kuis</p>
+    *<p align = "center">Gambar 6 Tampilan Halaman Kuis</p>*
 
     Selanjutnya disediakan juga rangkuman dari materi yang telah selesai kita pelajari. 
 
@@ -64,7 +64,7 @@ Di aplikasi pahamify ini ada beberapa fitur utama yang dapat membantu kita dalam
     <img src = "img/foto14.jpg">
     </p>
 
-     <p align = "center">Gambar 7 Tampilan Halaman Rangkuman</p>
+    *<p align = "center">Gambar 7 Tampilan Halaman Rangkuman</p>*
     
     Ada flashcard berisi poin-poin penting, seperti definisi, rumus, dan konsep kunci yang perlu diingat oleh siswa. 
 
@@ -72,7 +72,7 @@ Di aplikasi pahamify ini ada beberapa fitur utama yang dapat membantu kita dalam
     <img src = "img/foto15.jpg">
     </p>
 
-    <p align = "center">Gambar 8 Tampilan Halaman Flashcard</p>
+    *<p align = "center">Gambar 8 Tampilan Halaman Flashcard</p>*
     
     Diakhir pembelajaran juga diberikan Tes Akhir Materi.
 
@@ -82,7 +82,7 @@ Di aplikasi pahamify ini ada beberapa fitur utama yang dapat membantu kita dalam
     <img src = "img/foto3.jpg">
     </p>
 
-     <p align = "center">Gambar 9 Bagian Tips dan Motivasi pada Fitur Belajar</p>
+    *<p align = "center">Gambar 9 Bagian Tips dan Motivasi pada Fitur Belajar</p>*
 
     Dibagian ini kita disajikan berbagai tips dan motivasi berupa video tentang bagaimana cara belajar, bagaimana cara memahami tujuan belajar, dan juga belief system (meningkatkan rasa ingin tahu). 
 
@@ -90,7 +90,7 @@ Di aplikasi pahamify ini ada beberapa fitur utama yang dapat membantu kita dalam
     <img src = "img/foto16.jpg">
     </p>
 
-    <p align = "center">Gambar 10 Tampilan Halaman List Video Pembelajaran</p>
+    *<p align = "center">Gambar 10 Tampilan Halaman List Video Pembelajaran</p>*
 
 3. **Ekstrakurikuler**
 
@@ -98,7 +98,7 @@ Di aplikasi pahamify ini ada beberapa fitur utama yang dapat membantu kita dalam
     <img src = "img/foto4.jpg">
     </p>
 
-     <p align = "center">Gambar 11 Bagian Ekstrakurikuler pada Fitur Belajar</p>
+    *<p align = "center">Gambar 11 Bagian Ekstrakurikuler pada Fitur Belajar</p>*
 
     Dibagian ini disajikan beberapa video pelatihan untuk meningkatkan skill, contohnya seperti tentang bagaimana menggunakan Photoshop untuk pemula dan bagaimana membuat Ilustrasi Handrawn Style
 
@@ -106,17 +106,17 @@ Di aplikasi pahamify ini ada beberapa fitur utama yang dapat membantu kita dalam
     <img src = "img/foto17.jpg">
     </p>
 
-    <p align = "center">Gambar 12 Tampilan Halaman List Video Pelatihan</p>
+    *<p align = "center">Gambar 12 Tampilan Halaman List Video Pelatihan</p>*
 
     Selain itu, ada juga video tentang pengetahuan umum dan hal-hal unik tentang budaya, keseharian, dan lainnya.
 
-**Kedua**, ada fitur TO & Latihan.
+**Kedua**, ada **fitur TO & Latihan.**
 
 <p align = "center">
     <img src = "img/foto9.jpg">
 </p>
 
-<p align = "center">Gambar 13 Halaman Fitur TO & Latihan</p>
+*<p align = "center">Gambar 13 Halaman Fitur TO & Latihan</p>*
 
 Fitur ini terbagi menjadi tiga bagian lagi yaitu Tryout, Bank Soal, dan Materi UTBK.
 
@@ -124,7 +124,7 @@ Fitur ini terbagi menjadi tiga bagian lagi yaitu Tryout, Bank Soal, dan Materi U
     <img src = "img/foto7.jpg">
 </p>
 
-<p align = "center">Gambar 14 Bagian Tryout, Bank Soal, dan Materi UTBK pada Fitur TO & Latihan</p>
+*<p align = "center">Gambar 14 Bagian Tryout, Bank Soal, dan Materi UTBK pada Fitur TO & Latihan</p>*
 
 1. Fitur Tryout di Pahamify memungkinkan kita untuk mengikuti simulasi ujian UTBK dengan format dan waktu yang menyerupai ujian sesungguhnya. Soal-soal dalam tryout ini disusun berdasarkan standar soal UTBK, sehingga kita bisa mengukur sejauh mana kesiapan kita dalam menghadapi ujian.
 
@@ -132,13 +132,13 @@ Fitur ini terbagi menjadi tiga bagian lagi yaitu Tryout, Bank Soal, dan Materi U
 
 3. Bagian Materi UTBK menyediakan rangkuman materi pelajaran yang dirancang khusus untuk persiapan UTBK. Materi ini mencakup penjelasan konsep, rumus, dan tips-tips penting yang perlu diketahui oleh siswa untuk menghadapi ujian.
 
-**Fitur yang ketiga**, ada fitur Livestreaming. 
+**Fitur yang ketiga**, ada **Fitur Livestreaming**. 
 
 <p align = "center">
     <img src = "img/foto8.jpg">
 </p>
 
-<p align = "center">Gambar 15 Halaman Fitur Livestreaming</p>
+*<p align = "center">Gambar 15 Halaman Fitur Livestreaming</p>*
 
 Fitur Livestreaming memungkinkan kita untuk mengikuti kelas atau sesi belajar secara langsung dengan pengajar atau tutor dari Pahamify. Selama sesi ini, pengajar menyampaikan materi pelajaran, memberikan penjelasan mendalam, dan mengajak kita untuk berpartisipasi dalam diskusi.
 
@@ -148,7 +148,7 @@ Jika kita tidak bisa mengikuti sesi Livestreaming secara langsung, biasanya kita
     <img src = "img/foto18.jpg">
 </p>
 
-<p align = "center">Gambar 16 Halaman Rekaman Livestreaming pada Fitur Livestreaming</p>
+*<p align = "center">Gambar 16 Halaman Rekaman Livestreaming pada Fitur Livestreaming</p>*
 
 
 Selain rekaman sesi belajar, pahamify juga tersedia rekaman sesi webinar yang dapat kita tonton untuk mendapatkan berbagai pengetahuan baru. 
@@ -157,50 +157,50 @@ Selain rekaman sesi belajar, pahamify juga tersedia rekaman sesi webinar yang da
 
 **Kelebihan Pahamify**
 
-**1. Konten Pembelajaran yang Menarik**
+1. **Konten Pembelajaran yang Menarik**
 
     Pahamify menggunakan animasi, video interaktif, dan elemen gamifikasi untuk membuat pembelajaran lebih menarik dan menyenangkan. Ini membantu siswa memahami konsep-konsep sulit dengan lebih mudah.
 
-**2. Personalisasi Pembelajaran**
+2. **Personalisasi Pembelajaran**
 
     Aplikasi ini mampu menyesuaikan materi dan rekomendasi belajar berdasarkan kemajuan dan kesulitan yang dihadapi oleh setiap siswa, memberikan pengalaman yang lebih personal.
     
-**3. Simulasi Ujian yang Realistis**
+3. **Simulasi Ujian yang Realistis**
 
     Pahamify menyediakan simulasi tryout UTBK yang sangat mirip dengan kondisi ujian sesungguhnya, membantu siswa mempersiapkan diri dengan lebih baik.
 
-**4. Aksesibilitas dan Kemudahan Penggunaan**
+4. **Aksesibilitas dan Kemudahan Penggunaan**
     
     Aplikasi ini memiliki antarmuka yang user-friendly dan mudah diakses oleh berbagai kalangan pengguna, dari siswa hingga orang tua.
     Fitur Komunitas dan Diskusi: Pahamify memungkinkan siswa untuk berdiskusi dan belajar bersama melalui fitur komunitas, yang membantu meningkatkan pemahaman melalui kolaborasi.
 
 **Kekurangan Pahamify**
 
-**1. Ketergantungan pada Koneksi Internet**
+1. **Ketergantungan pada Koneksi Internet**
 
     Pahamify membutuhkan koneksi internet yang stabil untuk mengakses konten video dan fitur interaktif. Di daerah dengan koneksi internet yang tidak stabil, pengguna mungkin mengalami kesulitan.
 
-**2. Beberapa Fitur Premium**
+2. **Beberapa Fitur Premium**
 
     Meskipun menawarkan banyak konten gratis, fitur-fitur utama seperti akses ke semua video pembelajaran dan simulasi tryout penuh terkunci di balik paywall, yang mungkin tidak terjangkau oleh semua siswa.
     
-**3. Penggunaan Sumber Daya**
+3. **Penggunaan Sumber Daya**
 
     Meskipun relatif efisien, penggunaan aplikasi dalam waktu lama bisa menguras baterai perangkat, terutama saat memutar video pembelajaran.
 
-**4. Kurangnya Pengembangan untuk Pelajaran Tertentu**
+4. **Kurangnya Pengembangan untuk Pelajaran Tertentu**
 
     Fokus utama Pahamify adalah pada persiapan UTBK, sehingga mungkin kurang bermanfaat bagi siswa yang ingin memperdalam materi di luar kurikulum tersebut atau dari kelas yang lebih rendah.
 
-**5. Keterbatasan Interaksi Langsung dengan Tutor**
+5. **Keterbatasan Interaksi Langsung dengan Tutor**
 
     Meskipun berfungsi sebagai tutor digital, Pahamify kurang menawarkan interaksi langsung dengan pengajar atau tutor manusia, yang dapat menghambat siswa yang membutuhkan bimbingan lebih mendalam.
 
-## Pahamify sebagai Tutor
+## **Pahamify sebagai Tutor**
 Pahamify berfungsi sebagai tutor dengan memberikan instruksi dan penjelasan melalui video pembelajaran, soal latihan interaktif, dan penilaian otomatis. Aplikasi ini juga menyediakan rekomendasi belajar yang dipersonalisasi berdasarkan kemajuan siswa.
 
-## Pahamify sebagai Tools
-Sebagai tools, Pahamify menyediakan alat bantu seperti simulasi tryout UTBK, kalkulator, dan catatan pelajaran, yang memudahkan siswa dalam mempersiapkan ujian.
+## **Pahamify sebagai Tools**
+Sebagai tools, Pahamify menyediakan alat bantu seperti simulasi tryout UTBK dan catatan pelajaran, yang memudahkan siswa dalam mempersiapkan ujian.
 
-## Pahamify sebagai Tutee
+## **Pahamify sebagai Tutee**
 Pahamify juga berperan sebagai tutee dalam hal menyesuaikan dan mempelajari preferensi belajar pengguna. Algoritma aplikasi ini terus belajar dari interaksi pengguna untuk memberikan pengalaman belajar yang lebih personal dan efektif.
