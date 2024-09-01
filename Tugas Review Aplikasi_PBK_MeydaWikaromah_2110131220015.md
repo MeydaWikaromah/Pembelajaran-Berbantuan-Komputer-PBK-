@@ -172,7 +172,10 @@ Selain rekaman sesi belajar, pahamify juga tersedia rekaman sesi webinar yang da
 4. **Aksesibilitas dan Kemudahan Penggunaan**
     
     Aplikasi ini memiliki antarmuka yang user-friendly dan mudah diakses oleh berbagai kalangan pengguna, dari siswa hingga orang tua.
-    Fitur Komunitas dan Diskusi: Pahamify memungkinkan siswa untuk berdiskusi dan belajar bersama melalui fitur komunitas, yang membantu meningkatkan pemahaman melalui kolaborasi.
+    
+5. **Fitur Komunitas dan Diskusi**
+
+    Pahamify memungkinkan siswa untuk berdiskusi dan belajar bersama melalui fitur komunitas, yang membantu meningkatkan pemahaman melalui kolaborasi.
 
 **Kekurangan Pahamify**
 
