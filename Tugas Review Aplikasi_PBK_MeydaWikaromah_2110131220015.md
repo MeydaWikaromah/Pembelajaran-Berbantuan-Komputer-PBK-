@@ -11,26 +11,56 @@ Aplikasi ini menawarkan berbagai fitur, termasuk video pembelajaran yang interak
 ## **Tampilan Antarmuka dan Navigasi Pahamify**
 Pahamify memiliki desain yang simple dan minimalist dengan tampilan visual yang cerah dan ikon yang menarik. Setiap fitur dan menu pada aplikasi pahamify mudah ditemukan dan diakses. Navigasi dalam aplikasi ini intuitif dengan kategori yang terorganisir dengan baik sehingga kita sebagai pengguna dapat dengan mudah berpindah antar topik. Ada juga sidebar yang memuat fitur-fitur utama dalam aplikasi ini.
 
+<p align = "center">
+    <img src = "img/foto1.jpg">
+</p>
+
 ## **Fitur-fitur Utama Pahamify**
 Di aplikasi pahamify ini ada beberapa fitur utama yang dapat membantu kita dalam proses pembelajaran.
+
+<p align = "center">
+    <img src = "img/foto5.jpg">
+</p>
 
 **Pertama**, ada fitur Belajar, nah dibagian ini terbagi lagi menjadi tiga sub bagian kecil, yaitu :
 
 1. **Belajar Pelajaran**
+
+    <p align = "center">
+    <img src = "img/foto2.jpg">
+    </p>
     
     Dibagian ini kita dapat mengakses mata pelajaran seperti Matematika, Biologi, Literasi Bahasa Inggris, dan masih banyak lagi. Materi-materi pembelajaran disajikan dalam bentuk video animasi yang menarik dan menyenangkan, kemudian setelah pembelajaran akan ada kuis untuk menguji pemahaman, selanjutnya disediakan juga rangkuman dari materi yang telah selesai kita pelajari. Ada flashcard ... Diakhir pembelajaran juga diberikan Tes Akhir Materi.
 
 2. **Tips dan Motivasi**
     
+    <p align = "center">
+    <img src = "img/foto3.jpg">
+    </p>
+
     Dibagian ini kita disajikan berbagai tips dan motivasi berupa video tentang bagaimana cara belajar, bagaimana cara memahami tujuan belajar, dan juga belief system (meningkatkan rasa ingin tahu). 
 
 3. **Ekstrakurikuler**
+
+    <p align = "center">
+    <img src = "img/foto4.jpg">
+    </p>
 
     Dibagian ini disajikan beberapa video pelatihan untuk meningkatkan skill kita, contohnya seperti tentang bagaimana menggunakan Photoshop untuk pemula dan bagaimana membuat Ilustrasi Handrawn Style
     
     Selain itu, ada juga video tentang pengetahuan umum dan hal-hal unik tentang budaya, keseharian, dan lainnya.
 
-**Kedua**, ada fitur TO & Latihan, fitur ini terbagi menjadi tiga bagian lagi yaitu Tryout, Bank Soal, dan Materi UTBK.
+**Kedua**, ada fitur TO & Latihan.
+
+<p align = "center">
+    <img src = "img/foto9.jpg">
+</p>
+
+Fitur ini terbagi menjadi tiga bagian lagi yaitu Tryout, Bank Soal, dan Materi UTBK.
+
+<p align = "center">
+    <img src = "img/foto7.jpg">
+</p>
 
 1. Fitur Tryout di Pahamify memungkinkan kita untuk mengikuti simulasi ujian UTBK dengan format dan waktu yang menyerupai ujian sesungguhnya. Soal-soal dalam tryout ini disusun berdasarkan standar soal UTBK, sehingga kita bisa mengukur sejauh mana kesiapan kita dalam menghadapi ujian.
 
@@ -38,7 +68,13 @@ Di aplikasi pahamify ini ada beberapa fitur utama yang dapat membantu kita dalam
 
 3. Bagian Materi UTBK menyediakan rangkuman materi pelajaran yang dirancang khusus untuk persiapan UTBK. Materi ini mencakup penjelasan konsep, rumus, dan tips-tips penting yang perlu diketahui oleh siswa untuk menghadapi ujian.
 
-**Fitur yang ketiga**, ada fitur Livestreaming. Fitur Livestreaming memungkinkan kita untuk mengikuti kelas atau sesi belajar secara langsung dengan pengajar atau tutor dari Pahamify. Selama sesi ini, pengajar menyampaikan materi pelajaran, memberikan penjelasan mendalam, dan mengajak kita untuk berpartisipasi dalam diskusi.
+**Fitur yang ketiga**, ada fitur Livestreaming. 
+
+<p align = "center">
+    <img src = "img/foto8.jpg">
+</p>
+
+Fitur Livestreaming memungkinkan kita untuk mengikuti kelas atau sesi belajar secara langsung dengan pengajar atau tutor dari Pahamify. Selama sesi ini, pengajar menyampaikan materi pelajaran, memberikan penjelasan mendalam, dan mengajak kita untuk berpartisipasi dalam diskusi.
 
 Jika kita tidak bisa mengikuti sesi Livestreaming secara langsung, biasanya kita masih bisa mengakses rekaman sesi tersebut di kemudian hari. Ini memungkinkan kita untuk belajar sesuai dengan waktu yang kita miliki.
 
