@@ -4,9 +4,11 @@
 
 # **Review Aplikasi/Software sebagai Tutor, Tools, dan Tutee (Pahamify)**
 
+Pahamify adalah salah satu startup edtech yang diluncurkan pada tahun 2019 dan telah memiliki lebih dari 1 juta pengguna. Pahamify menyajikan puluhan ribu video pendidikan animasi berkualitas tinggi, kuis, serta ringkasan materi yang menggabungkan unsur pembelajaran sains, pembuatan film, gamifikasi, dan visualisasi. Kehadiran Pahamify sebagai media belajar online membantu siswa belajar dengan lebih mudah dan menyenangkan, sehingga mereka termotivasi untuk terus belajar dan meningkatkan prestasi. Dengan demikian, aplikasi Pahamify dapat menjadi alternatif yang efektif dalam mendukung proses pembelajaran.
+
 Pahamify adalah sebuah aplikasi pembelajaran berbasis digital yang dirancang untuk membantu siswa, khususnya siswa sekolah menengah atas (SMA), dalam mempersiapkan diri menghadapi ujian, seperti Ujian Tulis Berbasis Komputer (UTBK) yang merupakan bagian dari Seleksi Bersama Masuk Perguruan Tinggi Negeri (SBMPTN) atau sekarang disebut SNBT di Indonesia.
 
-Aplikasi ini menawarkan berbagai fitur, termasuk video pembelajaran yang interaktif, soal latihan, simulasi ujian, serta materi pembelajaran sesuai dengan kurikulum nasional yang disajikan dengan pendekatan yang menarik, seperti penggunaan animasi dan gamifikasi. Pahamify bertujuan untuk membuat proses belajar menjadi lebih menyenangkan dan efektif, dengan memberikan pengalaman belajar yang personal melalui rekomendasi yang disesuaikan dengan kebutuhan setiap siswa.
+Aplikasi ini menawarkan berbagai fitur, termasuk video pembelajaran yang interaktif, soal latihan, simulasi ujian, serta materi pembelajaran sesuai dengan kurikulum nasional yang disajikan dengan pendekatan yang menarik, seperti penggunaan animasi dan gamifikasi. Pahamify bertujuan untuk membuat proses belajar menjadi lebih menyenangkan dan efektif, dengan memberikan pengalaman belajar yang personal melalui rekomendasi yang disesuaikan dengan kebutuhan setiap siswa. Pahamify tidak hanya berfokus pada aspek akademis, tetapi juga peduli terhadap pengembangan karakter dan perencanaan karier setiap individu.
 
 ## **Tampilan Antarmuka dan Navigasi Aplikasi Pahamify**
 Pahamify memiliki desain yang simple dan minimalist dengan tampilan visual yang cerah dan ikon yang menarik. Setiap fitur dan menu pada aplikasi pahamify mudah ditemukan dan diakses. Navigasi dalam aplikasi ini intuitif dengan kategori yang terorganisir dengan baik sehingga kita sebagai pengguna dapat dengan mudah berpindah antar topik. Ada juga sidebar yang memuat fitur-fitur utama dalam aplikasi ini.
@@ -199,11 +201,60 @@ Selain rekaman sesi belajar, pahamify juga tersedia rekaman sesi webinar yang da
 
     Meskipun berfungsi sebagai tutor digital, Pahamify kurang menawarkan interaksi langsung dengan pengajar atau tutor manusia, yang dapat menghambat siswa yang membutuhkan bimbingan lebih mendalam.
 
+6. **Hanya tersedia materi SMA**
+    
+    Belum tersedianya materi untuk jenjang SD dan SMP, karena saat ini hanya ditujukan untuk siswa SMA. Materi untuk SD dan SMP masih dalam tahap pengembangan dan kemungkinan akan tersedia dalam beberapa tahun ke depan.
+
 ## **Pahamify sebagai Tutor**
-Pahamify berfungsi sebagai tutor dengan memberikan instruksi dan penjelasan melalui video pembelajaran, soal latihan interaktif, dan penilaian otomatis. Aplikasi ini juga menyediakan rekomendasi belajar yang dipersonalisasi berdasarkan kemajuan siswa.
+Pahamify berfungsi sebagai tutor dengan memberikan arahan dan penjelasan melalui video pembelajaran, soal latihan interaktif, dan penilaian otomatis. Aplikasi ini juga menyediakan rekomendasi belajar yang dipersonalisasi berdasarkan kemajuan siswa.
+
+Sebagai tutor, Pahamify berperan aktif memberikan bimbingan dan instruksi kepada pengguna, terutama melalui fitur-fitur yang mendukung pembelajaran terstruktur. Ini mencakup:
+
+1. **Konten video pembelajaran interaktif**
+    
+    Pahamify menyediakan video tutorial dengan penjelasan yang mudah dipahami, dipandu oleh pengajar ahli. Hal ini menyerupai peran tutor dalam memberikan pengajaran langsung kepada siswa.
+
+2. **Latihan soal dan kuis**
+    
+    Setelah menonton video atau mempelajari materi, pengguna diberi soal untuk menguji pemahaman mereka, lengkap dengan pembahasan jawabannya. Ini membantu pengguna mendapatkan umpan balik segera, mirip dengan peran tutor dalam mengevaluasi pemahaman siswa.
+
+3. **Rencana belajar yang dipersonalisasi**
+    
+    Pahamify memberikan panduan belajar yang sesuai dengan kebutuhan siswa berdasarkan analisis data hasil belajar mereka, membantu siswa belajar secara lebih efisien dan fokus, seperti tutor yang mempersonalisasi pendekatan pengajaran.
 
 ## **Pahamify sebagai Tools**
 Sebagai tools, Pahamify menyediakan alat bantu seperti simulasi tryout UTBK dan catatan pelajaran, yang memudahkan siswa dalam mempersiapkan ujian.
 
+Selain itu, sebagai tool, Pahamify juga berfungsi sebagai alat bantu bagi siswa untuk mencapai tujuan belajar mereka. Di sini, pengguna aktif menggunakan aplikasi untuk mendukung proses pembelajaran mereka, termasuk:
+
+1. **Bank soal dan simulasi ujian**
+
+    Pengguna dapat mengakses ribuan soal dan simulasi ujian untuk mempersiapkan diri menghadapi ujian. Pahamify berperan sebagai alat yang memungkinkan pengguna mengasah kemampuan mereka secara mandiri.
+
+2. **Fitur analisis kinerja belajar**
+
+    Pahamify menyediakan data dan analitik kinerja siswa, termasuk skor ujian dan kemajuan belajar. Siswa dapat menggunakan informasi ini untuk mengidentifikasi kelemahan dan area yang perlu diperbaiki.
+
+3. **Aksesibilitas dan fleksibilitas**
+
+    Aplikasi ini menyediakan materi yang dapat diakses kapan saja dan di mana saja, memungkinkan siswa menggunakan alat ini sesuai dengan kebutuhan mereka.
+
 ## **Pahamify sebagai Tutee**
 Pahamify juga berperan sebagai tutee dalam hal menyesuaikan dan mempelajari preferensi belajar pengguna. Algoritma aplikasi ini terus belajar dari interaksi pengguna untuk memberikan pengalaman belajar yang lebih personal dan efektif.
+
+Sebagai tutee, Pahamify memungkinkan pengguna, dalam hal ini siswa atau pengembang aplikasi, untuk melatih atau menyesuaikan aplikasi agar sesuai dengan kebutuhan mereka. Dalam hal ini, peran tutee lebih bersifat konseptual dan teknologis, di mana aplikasi diprogram atau disesuaikan untuk memenuhi kebutuhan spesifik. Beberapa contoh perannya sebagai tutee adalah:
+
+1. **Personalisasi konten pembelajaran**
+
+    Pahamify dapat belajar dari pola belajar pengguna, menyesuaikan saran materi atau soal yang sesuai dengan kemampuan siswa, layaknya aplikasi yang "belajar" dari pengguna.
+    
+2. **Pengembangan fitur berdasarkan umpan balik pengguna**
+
+    Pahamify, sebagai aplikasi, dapat terus berkembang berdasarkan masukan dan data yang diperoleh dari perilaku pengguna, sehingga aplikasi bisa menjadi lebih baik seiring waktu sesuai dengan kebutuhan siswa.
+
+Dengan memanfaatkan ketiga peran diatas, Pahamify menciptakan pengalaman belajar yang komprehensif dan mendukung siswa dalam berbagai aspek, dari menyediakan bimbingan (tutor), alat bantu pembelajaran (tool), hingga beradaptasi untuk meningkatkan performa (tutee).
+
+## **Referensi**
+
+1. https://jurnal.itscience.org/index.php/elektriese/article/view/1553
+2. https://wirahadie.com/review-pahamify/
